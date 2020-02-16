@@ -1,4 +1,4 @@
-# Handshake羊毛教程  | 最高可领取0.14BTC 约1400美金
+# Handshake大羊毛教程  | 最高可领取0.14BTC 约1400美金
 Handshake 从硅谷VC A16Z 与 Sequoia 处进行了募资，随后向 GNU、Mozilla、其他互联网基金会进行了捐赠。
 
 现在将对符合条件的github开发者进行 4662 Handshake代币的空投（价值0.14BTC 约1400美金 10000人民币 可以立即兑换！
